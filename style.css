@@ -1,0 +1,75 @@
+/* Body dan font */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    text-align: center; /* center semua text secara mudah */
+}
+
+/* Header */
+header {
+    background-color:hotpink;
+    padding: 20px;
+}
+
+/* Navigation menu */
+nav {
+    background-color: lightpink;
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Content */
+main {
+    width: 450px;
+    margin: 20px auto; /* center block */
+    padding: 15px;
+    background-color: #fff;
+}
+
+/* Gambar */
+main img {
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Form input & textarea */
+form input, form textarea {
+    display: block;
+    width: 80%;
+    padding: 8px;
+    margin: 10px auto;
+}
+
+/* Button */
+button {
+    padding: 10px 20px;
+    background-color: hotpink;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: lightpink;
+}
+
+/* Footer */
+footer {
+    background-color: hotpink;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 20px;
+}
