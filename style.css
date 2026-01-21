@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #fff;
     margin: 0;
-    text-align: center; /* center semua text secara mudah */
+    text-align: center;
 }
 
 header {
@@ -29,7 +29,7 @@ nav a:hover {
 
 main {
     width: 450px;
-    margin: 20px auto; /* center block */
+    margin: 20px auto; 
     padding: 15px;
     background-color: #fff;
 }
@@ -66,4 +66,5 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
+
 
